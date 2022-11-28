@@ -1,4 +1,4 @@
-"""API ingest DAG 2022-09-23"""
+"""API ingest DAG 2022-11-28"""
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
