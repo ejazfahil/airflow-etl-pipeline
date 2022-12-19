@@ -1,4 +1,4 @@
-"""DAG tests 2022-10-20"""
+"""DAG tests 2022-12-19"""
 from airflow.models import DagBag
 
 def test_no_import_errors():
