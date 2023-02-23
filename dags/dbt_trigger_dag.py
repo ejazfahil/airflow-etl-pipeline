@@ -1,4 +1,4 @@
-"""dbt trigger DAG 2022-12-06"""
+"""dbt trigger DAG 2023-02-23"""
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.bash import BashOperator
