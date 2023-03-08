@@ -1,4 +1,4 @@
-"""Slack alerts 2022-12-06"""
+"""Slack alerts 2023-03-08"""
 import requests
 
 def slack_fail_alert(context):
